@@ -1,6 +1,6 @@
 # CIS 2348 Homework 1 Fall 2020.
 # Dwayne Ellis
-# Student ID: 0833810
+# Student ID: #######
 # Lab 9.10
 
 import csv
