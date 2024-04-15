@@ -1,7 +1,7 @@
 # CIS 2348 Homework 2 Fall 2020.
 # Due Date: 10/07/2020
 # Dwayne Ellis
-# Student ID: 0833810
+# Student ID: 
 # Coding Problem 2 - Write a basic program that performs simple file and mathematical operations.
 
 month_list = {"january": "1", "february": "2", "march": "3", "april": "4", "may": "5", "june": "6", "july": "7",
